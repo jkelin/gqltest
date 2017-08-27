@@ -1,0 +1,19 @@
+{
+  "name": "gqltest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.7",
+    "fakerator": "^0.3.0",
+    "graphql": "^0.11.1",
+    "lodash": "^4.17.4",
+    "morgan": "^1.8.2"
+  }
+}
